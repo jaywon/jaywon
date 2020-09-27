@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a security engineer. I currently primarily do penetration testing and cloud infrastructure assessments, but I'm always building something and I'm happiest at the intersection of infrastructure :building_construction:/applications :computer:/security :lock:. 
+I'm a security engineer. I currently do primarily penetration testing (network and application) and cloud infrastructure assessments, but I'm always building something and I'm happiest at the intersection of infrastructure :building_construction:/applications :computer:/security :lock:. 
 
 I contribute to OSS when I can, and have spent a lot of time mentoring/teaching/community building.
 
